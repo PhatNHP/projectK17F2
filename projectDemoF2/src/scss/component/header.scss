@@ -1,0 +1,13 @@
+.header{
+    .tilte-header{
+        p{
+            color: red;
+            &:hover{
+                color: blue;
+            }
+        }
+    }
+    .menu-header{
+
+    }
+}
